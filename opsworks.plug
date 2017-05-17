@@ -1,0 +1,9 @@
+[Core]
+Name = Opsworks
+Module = opsworks
+
+[Documentation]
+Description = This is AWS OpsWorks plugin to add more functionality
+
+[Python]
+Version = 2+
