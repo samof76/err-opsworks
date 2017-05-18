@@ -6,4 +6,4 @@ Module = opsworks
 Description = This is AWS OpsWorks plugin to add more functionality
 
 [Python]
-Version = 2+
+Version = 3
